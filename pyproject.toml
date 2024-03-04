@@ -49,7 +49,7 @@ release = [
   "bumpver==2023.1129",
 ]
 build = [
-  "build==1.0.3",
+  "build==1.1.1",
 ]
 doc = [
   "pylint==3.0.3",
